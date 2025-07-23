@@ -51,9 +51,8 @@ The following steps were carried out to clean, transform, analyse, and visualise
 .
 ├── README.md
 ├── Hospital Accident and Emergency Activity, 2023-24; ECDS Summary Report Tables.xlsx
-├── Data Tables/
-│   ├── Attendances.xlsx
-│   ├── WaitingTimes.xlsx
-│   └── Reattendances.xlsx
+├── Attendances.xlsx
+├── WaitingTimes.xlsx
+├── Reattendances.xlsx
 ├── A&E Data Analysis.sql
 
