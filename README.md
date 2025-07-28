@@ -45,14 +45,3 @@ The following steps were carried out to clean, transform, analyse, and visualise
   - Detection of periods with high waiting times but low attendances.
 ---
 
-## 📂 Folder Structure
-
-```bash
-.
-├── README.md
-├── Hospital Accident and Emergency Activity, 2023-24; ECDS Summary Report Tables.xlsx
-├── Attendances.xlsx
-├── WaitingTimes.xlsx
-├── Reattendances.xlsx
-├── A&E Data Analysis.sql
-
